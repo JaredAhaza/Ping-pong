@@ -3,3 +3,11 @@
   text-align: center;
   text-decoration-color: black;
 }
+.well{
+  background-color: #E6E6FA;
+  margin-left: -10;
+  margin-right: -10;
+}
+.col-md-2{
+  background-color: #8FBC8B;
+}
