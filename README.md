@@ -17,12 +17,19 @@ Html file first created to give the site a structure then styles added using css
 Follow along.
 
   .Create a remote repository on github.
+  --------
   .Initialize a local repository using git init command on the project directory.
+  -------
   .Create the required html and css files and image directories.
+  -------
   .Create a new branch called gh-pages git branch gh-pages.
+  -------
   .Use git add . to add files and folders to git so that the project can be monitored then issue git commit -m "message here" to commit to staging area.
+  -----
   .Then connect with the remote repository git remote add origin <url.git>
+  ------
   .Then push to the remote repository on github.git push origin master.
+  ------
 Accessing the portfolio.
 --------------
 License
