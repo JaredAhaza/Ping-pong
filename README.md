@@ -33,6 +33,7 @@ Follow along.
 Accessing the portfolio.
 --------------
 License
+------------
 The site and materials can be accessed by the public freely
 
 Copyright (c) 2018 Jared
