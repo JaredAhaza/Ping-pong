@@ -2,6 +2,10 @@
   background-color: #f15a29;
   text-align: center;
   text-decoration-color: black;
+  margin-left: -10;
+  margin-right: -10;
+  margin-top: -10;
+  margin-bottom: -10;
 }
 .well{
   background-color: #E6E6FA;
@@ -12,7 +16,7 @@
   background-color: #8FBC8B;
 }
 body{
-
+margin: auto;
 }
 .em{
   text-decoration: underline;
