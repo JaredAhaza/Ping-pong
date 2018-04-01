@@ -22,7 +22,7 @@ Follow along.
   -------
   .Create the required html and css files and image directories.
   -------
-  .Create a new branch called gh-pages git branch gh-pages.
+  .Create a new branch called gh-pages.
   -------
   .Use git add . to add files and folders to git so that the project can be monitored then issue git commit -m "message here" to commit to staging area.
   -----
